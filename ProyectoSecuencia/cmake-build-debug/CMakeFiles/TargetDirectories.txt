@@ -1,0 +1,3 @@
+C:/Users/Paola/CLionProjects/ProyectoSecuencia/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Paola/CLionProjects/ProyectoSecuencia/cmake-build-debug/CMakeFiles/ProyectoSecuencia.dir
+C:/Users/Paola/CLionProjects/ProyectoSecuencia/cmake-build-debug/CMakeFiles/rebuild_cache.dir
